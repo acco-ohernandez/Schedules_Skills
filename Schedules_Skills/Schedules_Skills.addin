@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Schedules_Skills - Command 1</Text>
+    <Description>Some description for Schedules_Skills</Description>
+    <Assembly>Schedules_Skills.dll</Assembly>
+    <FullClassName>Schedules_Skills.Command1</FullClassName>
+    <ClientId>61f1024a-b981-48b0-99ee-1b41b5ff1239</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Schedules_Skills - Command 2</Text>
+    <Description>Some description for Schedules_Skills</Description>
+    <Assembly>Schedules_Skills.dll</Assembly>
+    <FullClassName>Schedules_Skills.Command2</FullClassName>
+    <ClientId>dc84c652-3eda-453f-afdc-82fa31b55b96</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Schedules_Skills</Name>
+    <Assembly>Schedules_Skills.dll</Assembly>
+    <FullClassName>Schedules_Skills.App</FullClassName>
+    <ClientId>c11b75d6-5ded-4ce6-9b9a-8d1c5ba7a6be</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
